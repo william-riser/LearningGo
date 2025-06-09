@@ -1,0 +1,15 @@
+# Jetbrains stuff
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
